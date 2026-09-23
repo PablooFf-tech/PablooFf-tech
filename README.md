@@ -47,51 +47,137 @@ I'm currently leveling up in:
 
 ### Languages & markup
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,lua,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,lua,mysql" alt="Languages" />
 </p>
 
 ### Tools & workflow
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,discord" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,discord" alt="Tools" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM" />
 </p>
 
 ---
 
 ## 🎯 Current goals
 
-- [x] Build a clean and professional GitHub profile  
-- [ ] Ship complete full-stack web projects  
-- [ ] Improve frontend UI/UX quality  
-- [ ] Strengthen backend, APIs and databases  
-- [ ] Keep growing my FiveM scripting & NUI skills  
-- [ ] Learn more about sysadmin, networking and security  
+- [x] Build a clean and professional GitHub profile
+- [ ] Ship complete full-stack web projects
+- [ ] Improve frontend UI/UX quality
+- [ ] Strengthen backend, APIs and databases
+- [ ] Keep growing my FiveM scripting & NUI skills
+- [ ] Learn more about sysadmin, networking and security
 
 ---
 
 ## 📌 Featured interests
 
-```text
-✨  Web design & UI development
-🧩  Full Stack learning path
-🎮  FiveM scripting & customization
-📡  Networking & system administration
-🛡️  Cybersecurity fundamentals
-📦  Clean docs, portfolios and product presentation
+✨ Web design & UI development  
+🧩 Full Stack learning path  
+🎮 FiveM scripting & customization  
+📡 Networking & system administration  
+🛡️ Cybersecurity fundamentals  
+📦 Clean docs, portfolios and product presentation
+
+---
+
+## 📂 Repositories
+
+<div align="center">
+
+[![All repos](https://img.shields.io/badge/View_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PablooFf-tech?tab=repositories)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPablooFf-tech&query=public_repos&label=Public%20repos&style=for-the-badge&color=238636)
+![Followers](https://img.shields.io/github/followers/PablooFf-tech?style=for-the-badge&logo=github&label=Followers&color=5865F2)
+
+</div>
+
+<br/>
+
+<!-- REPO-LIST:START -->
+<div align="center">
+
+<a href="https://github.com/PablooFf-tech/PrimerRepositorio">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=PablooFf-tech&repo=PrimerRepositorio&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="PrimerRepositorio" />
+</a>
+<a href="https://github.com/PablooFf-tech/Test">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=PablooFf-tech&repo=Test&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Test" />
+</a>
+
+</div>
+<!-- REPO-LIST:END -->
+
+<p align="center">
+  <a href="https://github.com/PablooFf-tech?tab=repositories"><strong>→ Ver todos los repositorios</strong></a>
+</p>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PablooFf-tech&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablooFf-tech&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PablooFf-tech&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" alt="GitHub streak" />
+</div>
+
+---
+
+## 🧭 Learning path
+
+| Stage | Focus | Status |
+|:---:|:---|:---|
+| 1️⃣ | Solid HTML / CSS / JS foundations | 🔄 In progress |
+| 2️⃣ | UI design systems & responsive layouts | 🔄 In progress |
+| 3️⃣ | Backend basics + MySQL | 🌱 Starting |
+| 4️⃣ | APIs and full project structure | 🌱 Starting |
+| 5️⃣ | FiveM advanced resources & polished NUI | 🔄 In progress |
+| 6️⃣ | Networking, sysadmin & security basics | 🌱 Starting |
+
+---
+
+## 💡 How I like to work
+
+- Prefer **practical projects** over endless theory
+- Aim for **clean, readable, maintainable** code
+- Care a lot about **visual quality** and UX details
+- Document things so future-me (and others) can use them
+- Keep learning every day — even with small improvements
+
+---
+
+## 📬 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Follow-PablooFf--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PablooFf-tech)
+
+**Open to collabs on web, UI and FiveM projects.**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=PablooFf-tech&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
+
+<br/><br/>
+
+*Learning, building, and improving every day.* ✨
+
+</div>
