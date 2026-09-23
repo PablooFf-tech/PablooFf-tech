@@ -102,7 +102,7 @@ I'm currently leveling up in:
 <div align="center">
 
 [![All repos](https://img.shields.io/badge/View_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PablooFf-tech?tab=repositories)
-![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPablooFf-tech&query=public_repos&label=Public%20repos&style=for-the-badge&color=238636)
+![Public repos](https://img.shields.io/badge/Public_repos-3-238636?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/PablooFf-tech?style=for-the-badge&logo=github&label=Followers&color=5865F2)
 
 </div>
@@ -110,20 +110,16 @@ I'm currently leveling up in:
 <br/>
 
 <!-- REPO-LIST:START -->
-<div align="center">
+<p align="center">
+  <a href="https://github.com/PablooFf-tech/PrimerRepositorio"><img src="https://img.shields.io/badge/GitHub-PrimerRepositorio-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="PrimerRepositorio" /></a>
+  <a href="https://github.com/PablooFf-tech/Test"><img src="https://img.shields.io/badge/GitHub-Test-5865F2?style=for-the-badge&logo=github&logoColor=white" alt="Test" /></a>
+</p>
 
-<a href="https://github.com/PablooFf-tech/PrimerRepositorio">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=PablooFf-tech&repo=PrimerRepositorio&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="PrimerRepositorio" />
-</a>
-<a href="https://github.com/PablooFf-tech/Test">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=PablooFf-tech&repo=Test&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Test" />
-</a>
-
-</div>
+<!-- last sync: seeded · Action will refresh automatically -->
 <!-- REPO-LIST:END -->
 
 <p align="center">
-  <a href="https://github.com/PablooFf-tech?tab=repositories"><strong>→ Ver todos los repositorios</strong></a>
+  <sub>🔄 Se actualiza solo cuando subes un repo público (Action diaria + manual)</sub>
 </p>
 
 ---
